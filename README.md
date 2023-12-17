@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Murali-7805/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151489752/7fe05c44-9583-4534-ac2a-d80685848459)
+
 
 ### Output:
+![image](https://github.com/Murali-7805/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151489752/95cc8adb-2fa2-425b-87a0-c1f0bcfb9587)
 
 
-### Name:
-### Register Number:
+### Name:Murali krishna S
+### Register Number:23012882
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
